@@ -1,0 +1,20 @@
+
+# Nmap 7.94SVN scan initiated at 2025-08-04 15:54 IST
+Nmap scan report for 192.168.56.1
+Host is up (0.000060s latency).
+Not shown: 999 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+3306/tcp open  mysql
+MAC Address: 0A:00:27:00:00:03 (Unknown)
+
+# Nmap done at 2025-08-04 15:54 IST -- 1 IP address (1 host up) scanned in 17.69 seconds
+
+# Nmap 7.94SVN scan initiated at 2025-08-04 15:55 IST
+Nmap scan report for 192.168.56.1
+Host is up (0.000052s latency).
+PORT     STATE SERVICE VERSION
+3306/tcp open  mysql   MySQL (unauthorized)
+MAC Address: 0A:00:27:00:00:03 (Unknown)
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at 2025-08-04 15:55 IST -- 1 IP address (1 host up) scanned in 13.47 seconds
